@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# AEM White Dove
+AEM White Dove is named after Purdy's most popular roller covers. The high density acrylic fiber is also capable of carrying large quantity of paint, leading to improved efficiency and productivity. Just like Purdy's White Dove, AEM Edge Delivery services are built to improve efficiency and productivity.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--white-dove--kxs692.aem.page/
+- Live: https://main--white-dove--kxs692.aem.live/
 
 ## Documentation
 
